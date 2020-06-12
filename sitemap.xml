@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/loke/</loc>
+    <loc>http://nlnwa.github.io/posts/loke/</loc>
     <lastmod>2020-06-12T14:33:40+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://nlnwa.github.io/</loc>
     <lastmod>2020-06-12T14:33:40+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://nlnwa.github.io/posts/</loc>
     <lastmod>2020-06-12T14:33:40+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/veidemann/</loc>
+    <loc>http://nlnwa.github.io/posts/veidemann/</loc>
     <lastmod>2020-05-06T15:21:13+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://nlnwa.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://nlnwa.github.io/tags/</loc>
   </url>
   
 </urlset>
